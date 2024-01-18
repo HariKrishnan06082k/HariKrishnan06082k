@@ -28,7 +28,7 @@ Experience working as an independent researcher, contributing to software develo
 <!--Intro start-->
 - 🔭 Interests: **Computer Vision, Machine Learning, Deep learning for Robot Perception/Learning, Robot Learning for Manipulation, GPU Programming using CUDA**
 
-- 🌱 I’m currently working on a research project in Field Robotics Lab (Umich) **Spot Robot Development Project**
+- 🌱 I’m currently working on a research project in Field Robotics Lab (Umich) **Transparent Object Reconstruction using Deep Learning based Implicit Neural Representation**
 
 - ☁️ I've keen interest in **Robot Perception/Learning , Deep learning for Vision, and Computer Vision for Robotics**
 
