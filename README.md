@@ -19,14 +19,14 @@ Currently pursuing Master of Science in **Robotics** at the University of Michig
 <a href="https://www.linkedin.com/in/harikrishnan-seetharaman/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 
 ### More about me:
-Actively looking for full-time opportunities as Robotics Perception Engineer, Computer Vision Engineer, Robotics R&D Scientist and roles relating to robot manipulation and computer vision.
+Actively looking for full-time opportunities as Robotics Perception/Manipulation Engineer, Computer Vision Engineer, Robotics R&D Scientist and roles relating to robot manipulation and computer vision.
 
 Demonstrated proficiency in developing machine learning solutions tailored for 3D computer vision and motion 
 planning algorithms for robot learning, with a focus on advancing vision-aided robotic manipulation projects. 
 Experience working as an independent researcher, contributing to software development efforts on solving robot manipulation and vision related problems.
 
 <!--Intro start-->
-- 🔭 Interests: **Computer Vision, Machine Learning, Deep learning for Robot Perception/Learning, Robot Learning for Manipulation, GPU Programming using CUDA**
+- 🔭 Interests: **Computer Vision, Machine Learning, Deep learning for Robot Perception, Robot Learning for Manipulation, GPU Programming using CUDA**
 
 - 🌱 I’m currently working on a research project in Field Robotics Lab (Umich) **Transparent Object Reconstruction using Deep Learning based Implicit Neural Representation**
 
